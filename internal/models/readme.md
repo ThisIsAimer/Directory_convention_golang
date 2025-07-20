@@ -1,0 +1,1 @@
+# will contain the structs we will use in our application
